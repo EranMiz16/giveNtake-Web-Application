@@ -1,4 +1,4 @@
-# GiveNTake
+# giveNtake
 
 A collaborative web application for item swapping, built as a group coursework project. The app allows users to list items, make bids, and swap items with others. The frontend is built with React, and the backend uses Firebase for authentication, database, and storage.
 
